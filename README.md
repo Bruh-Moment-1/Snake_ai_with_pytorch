@@ -1,1 +1,1 @@
-# Snake_ai_with_pytorch
+Just run agent.py and watch your snake
